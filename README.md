@@ -20,6 +20,23 @@ Low entropy = focused, deep work blocks
 
 ---
 
+### [Afterversed](https://github.com/philippbogdan/Afterversed)
+**🥇- Agentverse Hackathon (£65k prize pool)** . Led the team.
+
+
+**AI-Powered Bereavement Support Platform** - guides users through post-death administrative tasks using multi-agent orchestration.
+
+| Agent | Purpose |
+|-------|---------|
+| SearchAgent | Locates banks, government offices, service providers |
+| DraftingAgent | Generates professional letters and legal documents |
+| FormAgent | Automates form submissions and tracks responses |
+| ComputeAgent | Validates financial calculations and tax compliance |
+
+**Tech:** FastAPI, React, TypeScript, LangGraph, Google Gemini, Playwright
+
+---
+
 ### [DotSpot](https://github.com/philippbogdan/DotSpot)                                            
 **🥉 - Entrepreneurs First Hackathon**                                                      
                                                                                                    
@@ -46,23 +63,6 @@ Built on [@DJRHails](https://github.com/DJRHails)' hackathon template.
 - Full audit trails for accountability
 
 **Tech:** FastAPI, React, TypeScript, PostgreSQL/PostGIS, AWS Bedrock, LangChain
-
----
-
-### [Afterversed](https://github.com/philippbogdan/Afterversed)
-**🥇- Agentverse Hackathon (£65k prize pool)** . Led the team.
-
-
-**AI-Powered Bereavement Support Platform** - guides users through post-death administrative tasks using multi-agent orchestration.
-
-| Agent | Purpose |
-|-------|---------|
-| SearchAgent | Locates banks, government offices, service providers |
-| DraftingAgent | Generates professional letters and legal documents |
-| FormAgent | Automates form submissions and tracks responses |
-| ComputeAgent | Validates financial calculations and tax compliance |
-
-**Tech:** FastAPI, React, TypeScript, LangGraph, Google Gemini, Playwright
 
 ---
 
