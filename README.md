@@ -21,7 +21,7 @@ Low entropy = focused, deep work blocks
 ---
 
 ### [DotSpot](https://github.com/philippbogdan/DotSpot)                                            
-**3rd Place - Entrepreneurs First Hackathon**                                                      
+**🥉 - Entrepreneurs First Hackathon**                                                      
                                                                                                    
 AI-powered experiences with Ray-Ban Meta smart glasses.                                            
                                                                                                    
@@ -50,7 +50,7 @@ Built on [@DJRHails](https://github.com/DJRHails)' hackathon template.
 ---
 
 ### [Afterversed](https://github.com/philippbogdan/Afterversed)
-🥇 **Agentverse Hackathon (£65k prize pool)** . Led the team.
+**🥇- Agentverse Hackathon (£65k prize pool)** . Led the team.
 
 
 **AI-Powered Bereavement Support Platform** - guides users through post-death administrative tasks using multi-agent orchestration.
