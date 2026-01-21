@@ -38,9 +38,9 @@ Low entropy = focused, deep work blocks
 ---
 
 ### [DotSpot](https://github.com/philippbogdan/DotSpot)                                            
-**🥉 - Entrepreneurs First Hackathon**                                                      
+**🥉 - Entrepreneurs First Accessibility Hackathon**                                                      
                                                                                                    
-AI-powered experiences with Ray-Ban Meta smart glasses.                                            
+AI-powered assistance for blind people with Ray-Ban Meta smart glasses.                                            
                                                                                                    
 - Real-time video/audio streaming from glasses to AI agents via WebRTC                             
 - STT → LLM → TTS pipeline for conversational AI                                                   
