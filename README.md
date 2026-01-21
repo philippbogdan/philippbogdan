@@ -20,6 +20,21 @@ Low entropy = focused, deep work blocks
 
 ---
 
+### [DotSpot](https://github.com/philippbogdan/DotSpot)                                            
+**3rd Place - Entrepreneurs First Hackathon**                                                      
+                                                                                                   
+AI-powered experiences with Ray-Ban Meta smart glasses.                                            
+                                                                                                   
+- Real-time video/audio streaming from glasses to AI agents via WebRTC                             
+- STT → LLM → TTS pipeline for conversational AI                                                   
+- Production-ready three-component architecture (iOS + FastAPI + LiveKit Agents)                   
+                                                                                                   
+Built on [@DJRHails](https://github.com/DJRHails)' hackathon template.                             
+                                                                                                   
+**Tech:** Swift, SwiftUI, FastAPI, LiveKit, OpenAI/Anthropic, PostgreSQL, WebRTC                   
+                                                                                                   
+--- 
+
 ### [Beaconn](https://github.com/philippbogdan/Beaconn)
 **Great Agent Hackathon** 2 awards: best pitch and idea. Led the team. **Took £1k home** across the team.
 
