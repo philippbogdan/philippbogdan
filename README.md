@@ -21,6 +21,8 @@ Low entropy = focused, deep work blocks
 ---
 
 ### [Beaconn](https://github.com/philippbogdan/Beaconn)
+**Great Agent Hackathon** 2 awards: best pitch and idea. Led the team. **Took £1k home** across the team.
+
 **Civilian Emergency Response Coordination System** - matches help requests with nearby volunteers during disasters.
 
 - Real-time geospatial matching using PostGIS
@@ -33,6 +35,9 @@ Low entropy = focused, deep work blocks
 ---
 
 ### [Afterversed](https://github.com/philippbogdan/Afterversed)
+🥇 **Agentverse Hackathon (£65k prize pool)** . Led the team.
+
+
 **AI-Powered Bereavement Support Platform** - guides users through post-death administrative tasks using multi-agent orchestration.
 
 | Agent | Purpose |
