@@ -1,6 +1,6 @@
 # Philipp Bogdan
 
-Building at the intersection of **AI**, **wearables**, and **real-world applications**.
+Curious across STEM domains and build systems that just work.
 
 ## Featured Projects
 
