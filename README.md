@@ -4,7 +4,7 @@ Curious across STEM domains and build systems that just work.
 
 ## Featured Projects
 
-### [MyEntropy](https://github.com/philippbogdan/myentropy)
+### MyEntropy
 **Cognitive entropy tracker** that measures how fragmented your day is based on context-switching between activities.
 
 - **Web App** (Python/Flask) - Calendar-based entropy visualization with LLM-powered activity classification
