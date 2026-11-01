@@ -1,5 +1,7 @@
 US$50,000 to US$1,000,000
 
+*This is a very rough estimate produced by GPT 6 Astra (max) for reference.*
+
 My central estimate is about US$250,000 of additional industry value, in 2026 dollars, over three effective years of use. The main benefit is specialist research capacity freed by reducing interpolation artefacts, field-table preparation and repeated analysis.
 
 The [pull request](https://github.com/proximafusion/vmecpp/pull/819) replaces linear interpolation of external magnetic-field tables with cubic interpolation in free-boundary plasma simulations. Its earlier benchmarks report 16 to 100 times smaller field-table errors with a 51 by 51 cubic table than a 101 by 101 linear table, against a finer reference. That means roughly a quarter as many table entries at unchanged toroidal resolution. These are reported results from an earlier revision, not independent measurements of the final patch. The largest reported original-grid median slowdown was 6.1%, and the difficult-case convergence rate was unchanged. The gain is accuracy and potentially cheaper table preparation; faster equilibrium solves are not established.
