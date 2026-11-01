@@ -2,6 +2,8 @@
 
 Curious across domains and build systems that just work.
 
+Public work:
+
 ## Quantum computing
 
 - [Carbon-Helix](https://github.com/philippbogdan/carbon-helix-ase): modelled 24.4x lower memory error per second than adaptive C4-Helix, using 92 of the 98 qubits on Quantinuum's Helios. **Est. value: [$0.1-10M](https://github.com/philippbogdan/carbon-helix-ase/blob/main/VALUE.md)**
