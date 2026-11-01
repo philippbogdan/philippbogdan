@@ -6,22 +6,22 @@ Values are rough estimates of what each result is worth to teams that would use 
 
 ## Quantum computing
 
-- [Carbon-Helix](https://github.com/philippbogdan/carbon-helix-ase): modelled 24.4x lower memory error per second than adaptive C4-Helix, using 92 of the 98 qubits on Quantinuum's Helios. [$0.1-10M](https://github.com/philippbogdan/carbon-helix-ase/blob/main/VALUE.md)
-- [Elevator codes](https://github.com/philippbogdan/elevator-codes-flagged-bit-flips): modelled 88 to about 59 physical qubits per logical qubit if 90% of bit flips are flagged with exact timing, gates included; gate flags remain unproven. [$0.1-5M](https://github.com/philippbogdan/elevator-codes-flagged-bit-flips/blob/main/VALUE.md)
+- [Carbon-Helix](https://github.com/philippbogdan/carbon-helix-ase): modelled 24.4x lower memory error per second than adaptive C4-Helix, using 92 of the 98 qubits on Quantinuum's Helios. **Est. value: [$0.1-10M](https://github.com/philippbogdan/carbon-helix-ase/blob/main/VALUE.md)**
+- [Elevator codes](https://github.com/philippbogdan/elevator-codes-flagged-bit-flips): modelled 88 to about 59 physical qubits per logical qubit if 90% of bit flips are flagged with exact timing, gates included; gate flags remain unproven. **Est. value: [$0.1-5M](https://github.com/philippbogdan/elevator-codes-flagged-bit-flips/blob/main/VALUE.md)**
 
 ## Weather and climate computing
 
-- [Sphere-on-a-torus](https://github.com/philippbogdan/sphere-on-a-torus): shallow-water solver advances a modelled 856x more simulated time per wall time than an unfiltered, polar-limited lat-lon grid on 64 Cerebras CS-3 systems; fixed 42-point neighbourhood, poles included. [$0.1-10M](https://github.com/philippbogdan/sphere-on-a-torus/blob/main/VALUE.md)
+- [Sphere-on-a-torus](https://github.com/philippbogdan/sphere-on-a-torus): shallow-water solver advances a modelled 856x more simulated time per wall time than an unfiltered, polar-limited lat-lon grid on 64 Cerebras CS-3 systems; fixed 42-point neighbourhood, poles included. **Est. value: [$0.1-10M](https://github.com/philippbogdan/sphere-on-a-torus/blob/main/VALUE.md)**
 
 ## Fusion energy
 
-- [Tokamak Energy's RT-GSFit #103](https://github.com/tokamak-energy/rtgsfit/pull/103) (open): plasma equilibrium updates 5.4x faster, 1.1 ms to 0.2 ms median; flux agrees with the old solver to 1.5e-10. [$0.1-2M](https://github.com/philippbogdan/philippbogdan/blob/main/values/rtgsfit-103.md)
-- [Proxima Fusion's VMEC++ #819](https://github.com/proximafusion/vmecpp/pull/819) (merged): cubic interpolation cuts vacuum-field error 16 to 100x versus linear, even with a quarter of the table points; at most 6.1% slower. [$0.05-1M](https://github.com/philippbogdan/philippbogdan/blob/main/values/vmecpp-819.md)
-- [Tokamak Energy's GSFit #127](https://github.com/tokamak-energy/gsfit/pull/127) (open): ST40 workflow 7.6x faster, 293 s to 39 s, at unchanged accuracy; 14 of 14 robustness cases finish, previously 12 of 14. $0.1-0.3M
+- [Tokamak Energy's RT-GSFit #103](https://github.com/tokamak-energy/rtgsfit/pull/103) (open): plasma equilibrium updates 5.4x faster, 1.1 ms to 0.2 ms median; flux agrees with the old solver to 1.5e-10. **Est. value: [$0.1-2M](https://github.com/philippbogdan/philippbogdan/blob/main/values/rtgsfit-103.md)**
+- [Proxima Fusion's VMEC++ #819](https://github.com/proximafusion/vmecpp/pull/819) (merged): cubic interpolation cuts vacuum-field error 16 to 100x versus linear, even with a quarter of the table points; at most 6.1% slower. **Est. value: [$0.05-1M](https://github.com/philippbogdan/philippbogdan/blob/main/values/vmecpp-819.md)**
+- [Tokamak Energy's GSFit #127](https://github.com/tokamak-energy/gsfit/pull/127) (open): ST40 workflow 7.6x faster, 293 s to 39 s, at unchanged accuracy; 14 of 14 robustness cases finish, previously 12 of 14. **Est. value: $0.1-0.3M**
 
 ## Materials
 
-- [Rare-earth-free magnet alignment](https://github.com/philippbogdan/rare-earth-free-magnet-alignment): ceilings for 558 magnet and manufacturing combinations; 394 of 441 held-out published measurements fit, 13 clearly broke them. A textured parent caps printed MnAl(C) alignment at 0.61, against 0.50 for random grains. $0.1-0.5M
+- [Rare-earth-free magnet alignment](https://github.com/philippbogdan/rare-earth-free-magnet-alignment): ceilings for 558 magnet and manufacturing combinations; 394 of 441 held-out published measurements fit, 13 clearly broke them. A textured parent caps printed MnAl(C) alignment at 0.61, against 0.50 for random grains. **Est. value: $0.1-0.5M**
 
 ## Education
 
