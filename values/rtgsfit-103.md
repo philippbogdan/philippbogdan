@@ -1,5 +1,7 @@
 US$100,000 to US$2,000,000
 
+*This is a very rough estimate produced by GPT 6 Astra (max) for reference.*
+
 Estimated total incremental value to fusion research over the next five years, in today's dollars. A central estimate is about US$500,000. This is a range of expected values; the realised benefit could still be zero.
 
 The supplied [pull request](https://github.com/tokamak-energy/rtgsfit/pull/103) reports complete reconstruction updates falling from 1.104 ms to 0.205 ms on an Apple M4, with numerical differences around 1e-10 to 1e-9. The diff supports a substantive improvement: a separable Poisson solver, less redundant boundary work, skipped zero basis entries, validation tests and automatic fallback. I have not independently reproduced the timings. Production hardware and ST40 operating constants remain untested in the supplied evidence.
