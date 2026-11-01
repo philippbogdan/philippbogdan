@@ -1,8 +1,6 @@
 # Philipp Bogdan
 
-Curious across STEM domains and build systems that just work.
-
-Values are rough estimates of what each result is worth to teams that would use it, allowing for the chance they adopt it. Sole author of all papers below.
+Curious across domains and build systems that just work.
 
 ## Quantum computing
 
