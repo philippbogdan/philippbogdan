@@ -1,0 +1,13 @@
+US$20,000 to US$1,000,000
+
+*This is a very rough estimate produced by GPT 6 Astra (max) for reference.*
+
+Expected incremental value to fusion research over three years, with a central estimate around US$150,000.
+
+GSFit already supports ST40's post-pulse analysis and downstream diagnostic interpretation, giving this work an identifiable route to useful research time. [ST40 programme overview](https://conferences.iaea.org/event/392/papers/35603/files/13806-3337_ST40_overview_OAsunta_manuscript.pdf). The change removes repeated calculations, parallelises independent work and introduces FFT convolution. The submitted ST40 benchmark falls from 293.43 to 38.70 seconds for 480 slices, saving about 4.25 minutes per reconstruction. The MAST-U single-slice example improves by a smaller 1.5 times. [PR #127](https://github.com/tokamak-energy/gsfit/pull/127).
+
+My valuation assumes 10,000 to 100,000 full ST40 workflow equivalents annually across existing users and subsequent adopters, with 20% to 50% of saved runtime becoming productive researcher time, valued at US$100 to US$150 per hour. These are scenario assumptions, not measured usage; the upper end requires substantial reprocessing or wider adoption. Three years of benefit gives approximately US$42,000 to US$1.59 million conditional on successful use. Applying a 50% to 70% probability of successful validation and uptake gives the rounded headline range. A central calculation is 30,000 runs/year × 3 years × (4.25/60) hours/run × 30% productive recovery × US$125/hour × 60% probability = approximately US$143,000.
+
+The hourly value represents research capacity, with an allowance for benefits and overheads: the US median physicist salary of US$172,250 equates to about US$83 per hour over 2,080 hours. [US Bureau of Labor Statistics, May 2025 wages](https://www.bls.gov/ooh/life-physical-and-social-science/physicists-and-astronomers.htm). The three-year horizon limits credit for gains that later optimisation or replacement software could deliver anyway.
+
+The probability discount reflects material evidence gaps. In the supplied snapshot the PR is open without reviews. The largest benchmark samples only a 0.3 ms data window, was timed once per build on an Apple M4, and excludes production database I/O. Most comparisons agree closely, but two cases change convergence paths, including a sensitive near-double-null equilibrium. The code and comparison tests make the speed-up credible; production performance and numerical acceptance remain unverified. [Supplied benchmark evidence](https://github.com/tokamak-energy/gsfit/pull/127/files). The estimate counts recovered research time once, without adding a speculative premium for earlier commercial fusion.
