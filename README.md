@@ -40,7 +40,3 @@ Public work:
 - [Atom Learning Model (ALM)](https://arxiv.org/abs/2608.21106): maths tutor; 373 pupils, 26k+ marked attempts in seven weeks. arXiv.
 - [INSTRUMENTAL](https://arxiv.org/abs/2603.15905): recovers 28 synth settings to recreate a sound from a song. [Code](https://github.com/philippbogdan/instrumental), [live demo](https://philippbogdan.com/instrumental). arXiv.
 - [Optimal-transport cartogram](https://arxiv.org/abs/2609.14089): population maps without rotation versus diffusion's 7 to 9 degrees median on matched tests. [Code](https://github.com/philippbogdan/historical-cartogram). arXiv.
-
-## Hackathons
-
-- [AgentVerse](https://github.com/philippbogdan/Afterversed), 1st place in the "Agents in the wild" track; London Neurotech, Runner-Up, Netholabs NeuroAI track; Mozart AI Hack, 3rd place; [Entrepreneur First Accessibility](https://github.com/philippbogdan/DotSpot), 3rd prize; Cursor "Hands-Off", judge.
