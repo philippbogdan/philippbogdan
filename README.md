@@ -11,7 +11,7 @@ Public work:
 
 ## Simulation and mapping
 
-- [Sphere-on-a-torus](https://github.com/philippbogdan/sphere-on-a-torus): modelled 856x faster global shallow-water simulation on 64 Cerebras CS-3 systems than an unfiltered, polar-limited latitude-longitude grid. **Est. value: [$0.1-10M](https://github.com/philippbogdan/sphere-on-a-torus/blob/main/VALUE.md)**
+- [Sphere-on-a-torus](https://github.com/philippbogdan/sphere-on-a-torus): measured 1.16x to 3,182x lower normalised height l2 error in all 18 paired global shallow-water comparisons against its own TRSK implementation at nearly equal unique-cell counts. **Est. value: [$0.1-10M](https://github.com/philippbogdan/sphere-on-a-torus/blob/main/VALUE.md)**
 - [Peptide dynamics from sequence](https://github.com/philippbogdan/peptide-dynamics-from-sequence): estimated 2,900x less GPU time per nanosecond than tetrapeptide molecular dynamics. **Est. value: [$0.03-1M](https://github.com/philippbogdan/philippbogdan/blob/main/values/peptide-dynamics-from-sequence.md)**
 - [Cartogram bridge](https://github.com/philippbogdan/cartogram-bridge): links optimal-transport and diffusion population maps through noise, with diffusion time rescaled. **Est. value: [$0.01-0.5M](https://github.com/philippbogdan/philippbogdan/blob/main/values/cartogram-bridge.md)**
 
