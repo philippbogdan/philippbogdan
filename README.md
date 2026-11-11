@@ -12,13 +12,13 @@ Public work:
 ## Simulation and mapping
 
 - [Sphere-on-a-torus](https://github.com/philippbogdan/sphere-on-a-torus): measured 1.16x to 3,182x lower normalised height l2 error in all 18 paired global shallow-water comparisons against its own TRSK implementation at nearly equal unique-cell counts. **Est. value: [$0.1-10M](https://github.com/philippbogdan/sphere-on-a-torus/blob/main/VALUE.md)**
-- [Peptide dynamics from sequence](https://github.com/philippbogdan/peptide-dynamics-from-sequence): estimated 2,900x less GPU time per nanosecond than tetrapeptide molecular dynamics. **Est. value: [$0.03-1M](https://github.com/philippbogdan/philippbogdan/blob/main/values/peptide-dynamics-from-sequence.md)**
+- [Peptide dynamics from sequence](https://github.com/philippbogdan/peptide-dynamics-from-sequence): estimated 1,200x less GPU cost than tetrapeptide molecular dynamics at matched passage-time error (13 development peptides, MD at 1 fs steps). **Est. value: [$0.03-1M](https://github.com/philippbogdan/philippbogdan/blob/main/values/peptide-dynamics-from-sequence.md)**
 - [Cartogram bridge](https://github.com/philippbogdan/cartogram-bridge): links optimal-transport and diffusion population maps through noise, with diffusion time rescaled. **Est. value: [$0.01-0.5M](https://github.com/philippbogdan/philippbogdan/blob/main/values/cartogram-bridge.md)**
 
 ## Materials
 
 - [Rare-earth-free magnet alignment](https://github.com/philippbogdan/rare-earth-free-magnet-alignment): grain alignment ceilings consistent with 394 of 441 held-out measurements. **Est. value: [$0.1-5M](https://github.com/philippbogdan/philippbogdan/blob/main/values/rare-earth-free-magnet-alignment.md)**
-- [Zero-bulk metamaterials](https://github.com/philippbogdan/zero-bulk-metamaterials): idealised layers compress uniformly without resistance, retaining 87 to 92% of the shear-stiffness bound at fixed solid content. **Est. value: [$0.1-3M](https://github.com/philippbogdan/philippbogdan/blob/main/values/zero-bulk-metamaterials.md)**
+- [Zero-bulk metamaterials](https://github.com/philippbogdan/zero-bulk-metamaterials): idealised layers compress uniformly without resistance, retaining 94.5 to 99.5% of the shear-stiffness bound at fixed solid content. **Est. value: [$0.1-3M](https://github.com/philippbogdan/philippbogdan/blob/main/values/zero-bulk-metamaterials.md)**
 
 ## Fusion software
 
