@@ -11,5 +11,4 @@ I point agents at open scientific problems and judge what comes back. Most of it
 
 - [Learner history and calibration](https://openreview.net/forum?id=9uPqgPvXtJ): practice histories improved forecasts of pupils' maths performance (Brier score 0.2148 to 0.2027). **NeurIPS 2026 MATH-AI workshop paper, poster.**
 - [Atom Learning Model (ALM)](https://arxiv.org/abs/2608.21106): the learning model behind a maths tutor used by 373 pupils for seven weeks, 26k+ marked attempts. arXiv.
-- [INSTRUMENTAL](https://arxiv.org/abs/2603.15905): recovers 28 synth settings to recreate a sound from a song. [Code](https://github.com/philippbogdan/instrumental), [live demo](https://philippbogdan.com/instrumental). arXiv.
 - [Optimal-transport cartogram](https://arxiv.org/abs/2609.14089): population maps without rotation versus diffusion's 7 to 9 degrees median on matched tests. [Code](https://github.com/philippbogdan/historical-cartogram). arXiv.
