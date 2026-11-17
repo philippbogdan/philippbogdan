@@ -9,6 +9,7 @@ I point agents at open scientific problems and judge what comes back. Most of it
 
 ## Papers
 
+- [Predicting, Fast and Slow](https://arxiv.org/abs/2611.19457): an SSD already knows which of a learned controller's guesses are wrong. A 4,096-entry table of how its recent reads came back finds them (median AUROC 0.68) where nine uncertainty estimators do no better than a coin. [Code](https://github.com/philippbogdan/predicting-fast-and-slow). arXiv.
 - [Learner history and calibration](https://openreview.net/forum?id=9uPqgPvXtJ): practice histories improved forecasts of pupils' maths performance (Brier score 0.2148 to 0.2027). **NeurIPS 2026 MATH-AI workshop paper, poster.**
 - [Atom Learning Model (ALM)](https://arxiv.org/abs/2608.21106): the learning model behind a maths tutor used by 373 pupils for seven weeks, 26k+ marked attempts. arXiv.
 - [Optimal-transport cartogram](https://arxiv.org/abs/2609.14089): population maps without rotation versus diffusion's 7 to 9 degrees median on matched tests. [Code](https://github.com/philippbogdan/historical-cartogram). arXiv.
